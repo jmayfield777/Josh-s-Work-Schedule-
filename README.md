@@ -18,6 +18,17 @@ Enter piece of information into the time block pertaining to your schedule and c
 
 ## Credits
 
+https://stackoverflow.com/questions/12481439/jquery-this-keyword
+
+https://api.jquery.com/siblings/
+
+https://api.jquery.com/parent/
+
+https://day.js.org/docs/en/display/format
+
+https://api.jquery.com/
+
+
 ## License 
 
 Please refer to the MIT License in the repo.
