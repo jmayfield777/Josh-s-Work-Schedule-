@@ -4,9 +4,9 @@
 
 This application serves as a day scheduler. Once the user loads the page, they will notice hour long time blocks from the hours of 9am - 5pm, a typical work day scheule. This application tracks the time and applies a red background to the current time block, a green background to any future time blocks, and a gray background to past time blocks. The application allows the user to input todo items, as text, into each hour time block. Once the text is entered, it can be saved to local storage by clicking the folder icon on the right hand side of the time block. Clicking this save button should also print out a message, below the date and time, that specifies that the text item was saved to local storage. Any item saved to local storage will remain in the time block even after the page is refreshed. The date and time are also displayed under the title.
 
-Screenshot - 
+![screenshot of Day Scheduler](<Screenshot 2023-12-18 at 10.14.29 PM.png>)
 
-Link to webpage - 
+Link to webpage - https://github.com/jmayfield777/Josh-s-Work-Schedule-
 
 ## Installation
 
